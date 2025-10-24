@@ -13,4 +13,3 @@ def PrimeList(N):
             primes.append(str(num))
     # 用空格连接列表元素，末尾无空格
     return ' '.join(primes)
-    
